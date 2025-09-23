@@ -2,7 +2,7 @@
 Position elsewhere
 
 ## My solve
-**Flag:** pwn.college{IOZmyyW_ct7QQ3wXYCO54gVi0jL.QX3QTN0wSO0EzNzEzW}`
+**Flag:** `pwn.college{IOZmyyW_ct7QQ3wXYCO54gVi0jL.QX3QTN0wSO0EzNzEzW}`
 
 ```bash
 Connected!
